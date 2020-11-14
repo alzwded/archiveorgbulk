@@ -1,1 +1,1 @@
-@powershell -File download.ps1 %*
+@powershell -File %~dp0\download.ps1 %*
